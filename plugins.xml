@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugins>
+  <pyqgis_plugin name="Auditoría ICANH" version="1.5.4" plugin_id="auditoria_icanh_plugin">
+    <description>Herramienta de automatización para la auditoría y certificación del Modelo de Datos Espaciales del ICANH.</description>
+    <about>Auditoría de integridad espacial y bases de datos para proyectos arqueológicos según normatividad ICANH (Catálogo de Objetos v4.0).</about>
+    <version>1.5.4</version>
+    <qgis_minimum_version>3.0</qgis_minimum_version>
+    <qgis_maximum_version>7.99</qgis_maximum_version>
+    <homepage>https://johansebas131.github.io/geo-tools-repo/</homepage>
+    <file_name>auditoria_icanh_plugin.zip</file_name>
+    <author_name>Sebastián Giraldo</author_name>
+    <download_url>https://johansebas131.github.io/geo-tools-repo/auditoria_icanh_plugin.zip</download_url>
+    <uploaded_by>Sebastián Giraldo</uploaded_by>
+    <create_date>2026-11-25T18:30:00</create_date>
+    <update_date>2026-11-25T18:45:00</update_date>
+    <experimental>False</experimental>
+    <deprecated>False</deprecated>
+    <tracker>mailto:johansebastian131@gmail.com</tracker>
+    <repository>https://johansebas131.github.io/geo-tools-repo/</repository>
+    <tags>icanh,arqueologia,auditoria,qgis,modelo de datos</tags>
+  </pyqgis_plugin>
+</plugins>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
-  <pyqgis_plugin name="Auditoría ICANH" version="1.5.9" plugin_id="auditoria_icanh_plugin">
+  <pyqgis_plugin name="Auditoría ICANH" version="2.0.0" plugin_id="auditoria_icanh_plugin">
     <description>Herramienta de automatización para la auditoría y certificación del Modelo de Datos Espaciales del ICANH.</description>
     <about>Auditoría de integridad espacial y bases de datos para proyectos arqueológicos según normatividad ICANH (Catálogo de Objetos v4.0).</about>
-    <version>1.5.9</version>
+    <version>2.0.0</version>
     <qgis_minimum_version>3.0</qgis_minimum_version>
     <qgis_maximum_version>7.99</qgis_maximum_version>
     <homepage>https://johansebas131.github.io/geo-tools-repo/</homepage>
